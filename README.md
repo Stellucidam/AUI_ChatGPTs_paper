@@ -1,5 +1,6 @@
 
 # Generative AI in Higher Education
+[![CI/CD convert draft to pdf](https://github.com/Stellucidam/AUI_ChatGPTs_paper/actions/workflows/md_to_pdf.yaml/badge.svg)](https://github.com/Stellucidam/AUI_ChatGPTs_paper/actions/workflows/md_to_pdf.yaml)
 
 ## Study and Evaluate Opportunity of Integrating Generative AI (ChatGPT/Gemini/BardGPT) in Higher Education
 
