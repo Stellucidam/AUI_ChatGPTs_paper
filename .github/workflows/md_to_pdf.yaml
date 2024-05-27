@@ -18,9 +18,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive
 
-      - name: Convert draft.md to PDF with smaller margins
+      - name: Convert draft.md to PDF with smaller margins and two columns
         run: |
-          pandoc draft.md -o report.pdf --variable geometry:margin=1in
+          pandoc draft.md -o report.pdf --template=template.tex
 
       - name: Commit and push PDF
         env:
@@ -29,5 +29,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add report.pdf
-          git commit -m 'Generate PDF from draft.md with smaller margins'
+          git commit -m 'Generate PDF from draft.md with smaller margins and two columns'
           git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
