@@ -1,13 +1,3 @@
-# Generative AI in Higher Education – Study and Evaluate Opportunity of Integrating Generative AI (ChatGPT/Gemini/BardGPT) in Higher Education
-
-_Author: [Your Name]_
-
-_Institution: [Your University]_
-
-_Course: Advanced User Interfaces_
-
-_Date: [Today’s Date]_
-
 ## Abstract
 The integration of Generative Artificial Intelligence (GAI) such as ChatGPT, Gemini, and BardGPT into higher education poses transformative potential for teaching, learning, and administrative processes. This paper evaluates the opportunities and challenges associated with these technologies in an academic setting. It considers their impact on personalized learning, academic integrity, and the role of educators. Furthermore, the paper discusses the importance of developing robust AI literacy among students and faculty to ethically and effectively utilize these tools.
 
