@@ -13,10 +13,32 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Cache texlive
+        uses: actions/cache@v2
+        with:
+          path: /opt/texlive
+          key: ${{ runner.os }}-texlive
+          restore-keys: |
+            ${{ runner.os }}-texlive
+
+      - name: Cache pandoc
+        uses: actions/cache@v2
+        with:
+          path: ~/.pandoc
+          key: ${{ runner.os }}-pandoc
+          restore-keys: |
+            ${{ runner.os }}-pandoc
+
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive
+          if ! command -v pandoc &> /dev/null
+          then
+            sudo apt-get install -y pandoc
+          fi
+          if [ ! -d "/opt/texlive" ]; then
+            sudo apt-get install -y texlive texlive-latex-extra
+          fi
 
       - name: Convert draft.md to PDF with smaller margins and two columns
         run: |
