@@ -141,40 +141,52 @@ Recent research by [Chan and Hu (2023)](https://doi.org/10.1186/s41239-023-00411
 ### Familiarity and Positive Perceptions
 
 **Familiarity with GenAI**:
-- The majority of students indicated a high level of familiarity with GenAI tools, particularly ChatGPT. This familiarity is largely attributed to the widespread availability and ease of access to these technologies, which have been integrated into various educational and social platforms.
+
+The majority of students indicated a high level of familiarity with GenAI tools, particularly ChatGPT. This familiarity is largely attributed to the widespread availability and ease of access to these technologies, which have been integrated into various educational and social platforms.
 
 **Perceived Benefits**:
+
 - **Personalized Learning Support**: Students overwhelmingly recognized the potential of GenAI to provide personalized learning experiences. They appreciated how these tools could adapt to their individual learning styles and paces, offering tailored explanations and study materials that enhance understanding and retention.
+
 - **Writing and Brainstorming Assistance**: Many students highlighted the usefulness of GenAI in assisting with writing tasks. Tools like ChatGPT can generate ideas, suggest improvements, and help structure essays and reports. This capability is particularly beneficial for students who struggle with writer's block or need help organizing their thoughts.
+
 - **Research and Analysis Capabilities**: GenAI tools are also valued for their ability to assist in research. Students found these tools helpful in summarizing large volumes of information, generating bibliographies, and providing quick access to relevant academic sources. This functionality supports efficient study and improves the quality of academic work.
 
 ### Concerns and Challenges
 
 **Accuracy and Reliability**:
-- Despite the positive perceptions, students expressed concerns about the accuracy and reliability of AI-generated content. There is a fear that reliance on GenAI tools could lead to the propagation of incorrect or misleading information, which could negatively impact learning outcomes.
+
+Despite the positive perceptions, students expressed concerns about the accuracy and reliability of AI-generated content. There is a fear that reliance on GenAI tools could lead to the propagation of incorrect or misleading information, which could negatively impact learning outcomes.
 
 **Privacy and Data Security**:
-- Data privacy is a significant concern among students. The use of GenAI involves processing large amounts of personal data, raising questions about how this data is stored, used, and protected. Students are wary of potential breaches and the misuse of their personal information.
+
+Data privacy is a significant concern among students. The use of GenAI involves processing large amounts of personal data, raising questions about how this data is stored, used, and protected. Students are wary of potential breaches and the misuse of their personal information.
 
 **Ethical Implications**:
-- Ethical considerations play a crucial role in students' perceptions. There is a concern about the ethical use of GenAI, particularly regarding plagiarism and academic integrity. Students fear that easy access to high-quality AI-generated content could tempt some to pass off this work as their own, undermining the value of genuine academic effort.
+
+Ethical considerations play a crucial role in students' perceptions. There is a concern about the ethical use of GenAI, particularly regarding plagiarism and academic integrity. Students fear that easy access to high-quality AI-generated content could tempt some to pass off this work as their own, undermining the value of genuine academic effort.
 
 **Impact on Personal Development and Career Prospects**:
-- Some students worry that over-reliance on GenAI might hinder their personal development. There is a concern that students may become too dependent on these tools, potentially stunting their critical thinking and problem-solving skills. Additionally, there is apprehension about how employers might perceive the use of AI in academic work, fearing it could affect their career prospects if seen as a lack of originality or effort.
+
+Some students worry that over-reliance on GenAI might hinder their personal development. There is a concern that students may become too dependent on these tools, potentially stunting their critical thinking and problem-solving skills. Additionally, there is apprehension about how employers might perceive the use of AI in academic work, fearing it could affect their career prospects if seen as a lack of originality or effort.
 
 ### Detailed Insights from the Survey
 
 **Positive Engagement**:
-- Students who actively engaged with GenAI tools reported higher satisfaction with their learning experiences. They felt that these tools provided valuable support, especially in managing their coursework and improving their understanding of complex subjects.
+
+Students who actively engaged with GenAI tools reported higher satisfaction with their learning experiences. They felt that these tools provided valuable support, especially in managing their coursework and improving their understanding of complex subjects.
 
 **Diverse Applications**:
-- The survey revealed that students used GenAI for a variety of tasks, ranging from simple queries and homework assistance to more complex research projects and creative writing. This versatility underscores the wide-ranging applicability of GenAI in academic settings.
+
+The survey revealed that students used GenAI for a variety of tasks, ranging from simple queries and homework assistance to more complex research projects and creative writing. This versatility underscores the wide-ranging applicability of GenAI in academic settings.
 
 **Generational Differences**:
-- There were noticeable generational differences in the acceptance and use of GenAI. Younger students, particularly those in their first and second years, were more enthusiastic and open to experimenting with AI tools compared to their senior counterparts. This difference highlights the need for targeted AI literacy programs that cater to different student demographics.
+
+There were noticeable generational differences in the acceptance and use of GenAI. Younger students, particularly those in their first and second years, were more enthusiastic and open to experimenting with AI tools compared to their senior counterparts. This difference highlights the need for targeted AI literacy programs that cater to different student demographics.
 
 **Recommendations for Institutions**:
-- The study suggests that educational institutions should provide clear guidelines on the ethical use of GenAI. By establishing policies and offering training on AI literacy, institutions can help mitigate the concerns students have about accuracy, privacy, and ethical implications. Additionally, fostering an environment that encourages the responsible use of AI can enhance students' learning experiences and ensure the integrity of academic work.
+
+The study suggests that educational institutions should provide clear guidelines on the ethical use of GenAI. By establishing policies and offering training on AI literacy, institutions can help mitigate the concerns students have about accuracy, privacy, and ethical implications. Additionally, fostering an environment that encourages the responsible use of AI can enhance students' learning experiences and ensure the integrity of academic work.
 
 In summary, while students recognize and appreciate the benefits of Generative AI in enhancing their educational experiences, they also call for careful consideration of the associated challenges. Addressing these concerns through comprehensive policies, ethical guidelines, and robust AI literacy programs will be crucial in harnessing the full potential of GenAI in higher education.
 
